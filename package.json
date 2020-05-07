@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "test_heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeiJohnson/test_heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeiJohnson/test_heroku/issues"
+  },
+  "homepage": "https://github.com/MeiJohnson/test_heroku#readme",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
